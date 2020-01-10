@@ -1,0 +1,7 @@
+*.gch
+*.o
+test-maths
+test-cube
+test-solver
+solve-random-cubes
+main
